@@ -1,0 +1,17 @@
+{
+  "product": "km_weatherstation_maing01",
+  "version": "0.1.0",
+  "license": "License Commercial",
+  "description": {
+    "en": "",
+    "cs": ""
+  },
+  "devkit": {
+    "development": {
+      "appBoxLocationUri": "----- VALUE REQUIRED -----",
+      "appDeploymentUri": null
+    }
+  },
+  "km_weatherstation_maing01-hi": {},
+  "km_weatherstation_maing01-server": {}
+}
